@@ -1,0 +1,1 @@
+Remember to replace the example conversion rates with real-time rates from a reliable source if you intend to use this for actual currency conversions. And Also remeber to open "CurrencyConverter.py" With Python.
